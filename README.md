@@ -15,7 +15,7 @@ I am very interested about the whole .NET environment, and OOP is my favorite pa
 
 
 ### Connect with me
-Feel free to contact me on LinkedIn to ask me anything, make suggestions, or to have me there just in case. Maybe we could co-op, learn with each other, or chat about out tech hobbies, even move to Discord. 
+Feel free to contact me on LinkedIn to ask me anything, make suggestions, or to have me there just in case. Maybe we could co-op, learn with each other, or chat about our tech hobbies, even move to Discord. 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessadquadros/)
